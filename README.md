@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaeeun
 - 👀 I’m interested in studying something
-- 🌱 I’m currently learning coding at first
+- 🌱 I’m currently learning coding for the first time
 - 💞️ I’m looking to collaborate on life science
 - 📫 How to reach me 
 
